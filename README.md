@@ -1,6 +1,7 @@
 # Hospital-Appointment-Billing-System
 
  Description
+ 
 The Hospital Appointment & Billing System is a web-based system designed to make it easier for patients to find doctors, book appointments, manage medical information, and handle hospital billing and payments.
 The system also helps doctors and hospital staff manage appointments, patient records, schedules, and billing information efficiently.
 
@@ -17,6 +18,9 @@ Main Features
 Team
 
 1-Rehab Ayman Ismail Badr
+
 2-Haidy Emad Gamal 
+
 3-Shahd Mamdouh Hefnawy Elshiekh
+
 
